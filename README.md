@@ -1,6 +1,6 @@
-# app_5
+# OS NewsPortal
 
-A new Flutter project.
+An API based news application for Operating System Lab project
 
 ## Getting Started
 
